@@ -1,5 +1,7 @@
 # BSV-IP-TO-IP
 1-replace with your keys in line 2030-->2034
+
+```text
                     +----------------------+
                     |      Payer Wallet    |
                     |----------------------|
@@ -42,7 +44,7 @@
                     | Receive Address #i   |
                     | (controlled by Payee)|
                     +----------------------+
-
+...
 Key points:
 
 The payer uses three keys: Identity, Anchor, Spend. Only the Spend key actually signs the transaction and moves funds.
