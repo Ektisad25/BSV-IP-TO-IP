@@ -1,5 +1,6 @@
 # BSV-IP-TO-IP
 1-replace with your keys in line 2030-->2034
+2- fund your PAYER_SPEND_WIF with some BSV satoshis
 
 ```text
                     +----------------------+
