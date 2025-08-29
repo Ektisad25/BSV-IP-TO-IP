@@ -1,0 +1,6 @@
+bitsv
+coincurve
+ecdsa
+requests
+dataclasses
+python-dotenv
