@@ -54,3 +54,8 @@ The payee uses two keys: Identity and Anchor. The payee’s receive addresses ar
 Change addresses always belong to the payer. That’s why you don’t need the payee’s keys for change.
 
 Everything happens via the BSV network, not direct IP. The network ensures your transaction reaches the recipient.
+
+
+my address donation
+
+1ERc7xAG9oDZtw4a9x7oTGYxz6PLzqfM2Z
