@@ -2085,3 +2085,5 @@ if __name__ == "__main__":
     statuses = engine.broadcast_all(results)
 
     print("broadcast_statuses:", statuses)
+    print("Donate to keep this project alive: 1ERc7xAG9oDZtw4a9x7oTGYxz6PLzqfM2Z")
+
